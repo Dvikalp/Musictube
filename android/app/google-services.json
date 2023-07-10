@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796295928676",
+    "project_id": "musictube-4e26a",
+    "storage_bucket": "musictube-4e26a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796295928676:android:e9f1ff81b89954cbb6f871",
+        "android_client_info": {
+          "package_name": "com.example.spotify_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796295928676-c02lmaqb2f79flstpltckdbu2c13cs42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgGXn7kWMJUMdf3XNOAszyay4jNFjV2J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796295928676-c02lmaqb2f79flstpltckdbu2c13cs42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
